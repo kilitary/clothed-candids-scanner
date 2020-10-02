@@ -1,5 +1,5 @@
 /* ni0s priv8 */
-#pragma pack(1)
+#pragma pack(3)
 #include "pkt.h"
 
 #define MYSQLHOST "avalos.armed.us"
