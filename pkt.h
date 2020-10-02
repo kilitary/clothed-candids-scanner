@@ -1,4 +1,4 @@
-#pragma pack(1)
+#pragma pack(3)
 
 #include <ncurses.h>
 #ifndef __USE_BSD
